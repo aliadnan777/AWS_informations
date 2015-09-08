@@ -19,16 +19,16 @@
 
 ### Terminal Commands
 
-* ssh -ipadress
-* password
-* cd /root /backup
-* backup ls
-* mkdir foldername
+* `ssh -ipadress`
+* `password`  ---server ask for password
+* `cd /root /backup`
+* `backup ls`
+* `mkdir foldername`
 * `mysql username -u -p -h` ---for checking access to this database
-* password
-* show databases
-* mysql dump -u name -p -h | foldername
-* mkdir s3
+* `password`
+* `show databases`
+* `mysql dump -u name -p -h | foldername`
+* `mkdir s3`
 * `sudo apt-get install s3cmd` ---install s3cmd
 * `s3cmd --configure` --- configure the Access and screct key
 * `s3cmd ls`
