@@ -1,22 +1,6 @@
 # AWS Notes
 
-### permissions
 
-* ----------
-* first desh - represent, is this document is file , directory or link
-* if in starting is - then it is file , if d then it shows directory, if l it mean link
-* next three dashes --- represent owner
-* r for first dash which mean read having 4 bits
-* w for 2nd - which mean write having 2 bits
-* x for 3rd - which mean exicute having one bit
-* 
-* next --- dashes represent group, having same values as owner
-* last --- dashes for user, having same value as owner and group
-* we can give permissions to owner, group and user according to requirement
-* Example
-* we have number 745 mean
-* rwx r-- r-x
-* 421 400 401
 
 ### AWS Backup and termination of Servers
 
