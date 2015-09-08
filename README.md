@@ -37,5 +37,11 @@
 * `mv foldername/path foldername/path` 
 * `cd path mv s3-*/path`---move all backup files to another directory
 * `scp foldername/path username folderpath`
-* 
-* 
+
+### General Notes
+* Patching, security updates after specific time
+* Main panel of AWS
+  * where diffrent application run and we select according to our need
+  * first OS then choose an instance type then configure instance detail then add storage  then instance tay and security
+* Mail relog
+  * AWS give services of ses (simple email service) you can just send email no inbox in this
