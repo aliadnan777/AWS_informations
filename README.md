@@ -1,0 +1,5 @@
+# AWS_informations
+
+### permissions
+
+* 
